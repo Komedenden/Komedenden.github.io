@@ -1,4 +1,3 @@
-google.com, pub-7134389774282540, DIRECT, f08c47fec0942fa0
 unity.com, 1230413, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
@@ -36,3 +35,4 @@ rhythmone.com, 3630748062, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 telaria.com, rwd19-1230413, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-1230413, RESELLER, 1a4e959a1b50034a
+google.com, pub-7134389774282540, DIRECT, f08c47fec0942fa0
